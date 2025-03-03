@@ -25,5 +25,5 @@ passionate about creating apps that improve people's lives
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![angular](https://banner2.cleanpng.com/20190715/cxe/kisspng-angularjs-scalable-vector-graphics-portable-networ-voice-broadcasting-dataoxy-technologies-1713878282190.webp)
+![angular](https://img.shields.io/badge/-Angular?logo=angular&logoColor=ffffff%09&label=Angular&labelColor=%23c3002f&color=%23c3002f)
 
